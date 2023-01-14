@@ -1,0 +1,15 @@
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\bin\Debug\net5.0\0_BaseRules.deps.json
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\bin\Debug\net5.0\0_BaseRules.dll
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\bin\Debug\net5.0\0_BaseRules.pdb
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\obj\Debug\net5.0\0_BaseRules.csproj.AssemblyReference.cache
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\obj\Debug\net5.0\0_BaseRules.GeneratedMSBuildEditorConfig.editorconfig
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\obj\Debug\net5.0\0_BaseRules.AssemblyInfoInputs.cache
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\obj\Debug\net5.0\0_BaseRules.AssemblyInfo.cs
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\obj\Debug\net5.0\0_BaseRules.csproj.CoreCompileInputs.cache
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\obj\Debug\net5.0\0_BaseRules.dll
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\obj\Debug\net5.0\refint\0_BaseRules.dll
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\obj\Debug\net5.0\0_BaseRules.pdb
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\obj\Debug\net5.0\ref\0_BaseRules.dll
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\bin\Debug\net5.0\0_BaseRules.runtimeconfig.json
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\bin\Debug\net5.0\0_BaseRules.runtimeconfig.dev.json
+E:\01-Music\MusicAt\MusicAte\0_BaseRules\obj\Debug\net5.0\0_BaseRules.genruntimeconfig.cache

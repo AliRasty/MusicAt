@@ -1,0 +1,17 @@
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\bin\Debug\net5.0\MusicManagement.Application.Contract.deps.json
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\bin\Debug\net5.0\MusicManagement.Application.Contract.dll
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\bin\Debug\net5.0\MusicManagement.Application.Contract.pdb
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\bin\Debug\net5.0\0_BaseRules.dll
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\bin\Debug\net5.0\Music.Domin.dll
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\bin\Debug\net5.0\Music.Domin.pdb
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\bin\Debug\net5.0\0_BaseRules.pdb
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\obj\Debug\net5.0\MusicManagement.Application.Contract.csproj.AssemblyReference.cache
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\obj\Debug\net5.0\MusicManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\obj\Debug\net5.0\MusicManagement.Application.Contract.AssemblyInfoInputs.cache
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\obj\Debug\net5.0\MusicManagement.Application.Contract.AssemblyInfo.cs
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\obj\Debug\net5.0\MusicManagement.Application.Contract.csproj.CoreCompileInputs.cache
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\obj\Debug\net5.0\MusicManagement.Application.Contract.csproj.CopyComplete
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\obj\Debug\net5.0\MusicManagement.Application.Contract.dll
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\obj\Debug\net5.0\refint\MusicManagement.Application.Contract.dll
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\obj\Debug\net5.0\MusicManagement.Application.Contract.pdb
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application.Contract\obj\Debug\net5.0\ref\MusicManagement.Application.Contract.dll

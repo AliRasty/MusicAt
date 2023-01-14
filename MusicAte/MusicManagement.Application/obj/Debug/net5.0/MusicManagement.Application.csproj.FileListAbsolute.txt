@@ -1,0 +1,12 @@
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\bin\Debug\net5.0\MusicManagement.Application.deps.json
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\bin\Debug\net5.0\MusicManagement.Application.dll
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\bin\Debug\net5.0\MusicManagement.Application.pdb
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\obj\Debug\net5.0\MusicManagement.Application.csproj.AssemblyReference.cache
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\obj\Debug\net5.0\MusicManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\obj\Debug\net5.0\MusicManagement.Application.AssemblyInfoInputs.cache
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\obj\Debug\net5.0\MusicManagement.Application.AssemblyInfo.cs
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\obj\Debug\net5.0\MusicManagement.Application.csproj.CoreCompileInputs.cache
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\obj\Debug\net5.0\MusicManagement.Application.dll
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\obj\Debug\net5.0\refint\MusicManagement.Application.dll
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\obj\Debug\net5.0\MusicManagement.Application.pdb
+E:\01-Music\MusicAt\MusicAte\MusicManagement.Application\obj\Debug\net5.0\ref\MusicManagement.Application.dll

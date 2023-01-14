@@ -1,0 +1,15 @@
+E:\01-Music\MusicAt\MusicAte\Music.Domin\bin\Debug\net5.0\Music.Domin.deps.json
+E:\01-Music\MusicAt\MusicAte\Music.Domin\bin\Debug\net5.0\Music.Domin.dll
+E:\01-Music\MusicAt\MusicAte\Music.Domin\bin\Debug\net5.0\Music.Domin.pdb
+E:\01-Music\MusicAt\MusicAte\Music.Domin\bin\Debug\net5.0\0_BaseRules.dll
+E:\01-Music\MusicAt\MusicAte\Music.Domin\bin\Debug\net5.0\0_BaseRules.pdb
+E:\01-Music\MusicAt\MusicAte\Music.Domin\obj\Debug\net5.0\Music.Domin.csproj.AssemblyReference.cache
+E:\01-Music\MusicAt\MusicAte\Music.Domin\obj\Debug\net5.0\Music.Domin.GeneratedMSBuildEditorConfig.editorconfig
+E:\01-Music\MusicAt\MusicAte\Music.Domin\obj\Debug\net5.0\Music.Domin.AssemblyInfoInputs.cache
+E:\01-Music\MusicAt\MusicAte\Music.Domin\obj\Debug\net5.0\Music.Domin.AssemblyInfo.cs
+E:\01-Music\MusicAt\MusicAte\Music.Domin\obj\Debug\net5.0\Music.Domin.csproj.CoreCompileInputs.cache
+E:\01-Music\MusicAt\MusicAte\Music.Domin\obj\Debug\net5.0\Music.Domin.csproj.CopyComplete
+E:\01-Music\MusicAt\MusicAte\Music.Domin\obj\Debug\net5.0\Music.Domin.dll
+E:\01-Music\MusicAt\MusicAte\Music.Domin\obj\Debug\net5.0\refint\Music.Domin.dll
+E:\01-Music\MusicAt\MusicAte\Music.Domin\obj\Debug\net5.0\Music.Domin.pdb
+E:\01-Music\MusicAt\MusicAte\Music.Domin\obj\Debug\net5.0\ref\Music.Domin.dll
